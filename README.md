@@ -62,7 +62,7 @@ Export results are recorded in `export.log`.
 
 ### Tested on / Протестировано на:
 
-- MODX Revolution 2.9.5
+- MODX Revolution 2.8.5
 
 > ⚠️ Compatibility with other versions has not been fully tested.
 > Совместимость с другими версиями полностью не проверялась.
